@@ -5,5 +5,4 @@
 ## 実行手順
 
 1. cd abc[コンテスト番号]/[問題番号] 
-2. go build main.go
-3. main.go
+2. go run main.go
