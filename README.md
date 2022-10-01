@@ -34,3 +34,11 @@ g++ main.cpp -o main
 ```
 cat in.txt | ./main > result.txt
 ```
+
+
+## 参考資料
+
+[C++入門 AtCoder Programming Guide for beginners (APG4b)](https://atcoder.jp/contests/APG4b)
+[ABC コンテスト](https://atcoder.jp/home)
+[競プロ典型 90 問](https://atcoder.jp/contests/typical90)
+[AtCoder Problems](https://kenkoooo.com/atcoder/#/training/Boot%20camp%20for%20Beginners)
